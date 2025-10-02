@@ -15,7 +15,7 @@
         <mxCell id="lxl6fSmFlQP_LVeDL2tm-1" value="Company" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxl6fSmFlQP_LVeDL2tm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxl6fSmFlQP_LVeDL2tm-2">
+        <mxCell id="lxl6fSmFlQP_LVeDL2tm-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxl6fSmFlQP_LVeDL2tm-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="110" as="targetPoint" />
           </mxGeometry>
