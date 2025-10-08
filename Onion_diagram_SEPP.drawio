@@ -40,6 +40,12 @@
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-19" value="Passenger" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="519.9999999999999" y="440" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-22" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="308" y="390" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-23" value="System Admins" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="358" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
