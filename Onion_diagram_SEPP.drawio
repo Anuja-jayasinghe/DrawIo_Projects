@@ -22,6 +22,12 @@
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-11" value="Direct Users" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="330" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-12" value="Indirect Users" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-13" value="Other Stakeholders" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
