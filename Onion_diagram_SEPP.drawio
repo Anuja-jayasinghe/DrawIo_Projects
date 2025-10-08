@@ -64,6 +64,12 @@
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-29" value="Developers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-30" value="Insuarance&lt;div&gt;services&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.82" y="259" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-31" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="505.82" y="291" width="20" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
