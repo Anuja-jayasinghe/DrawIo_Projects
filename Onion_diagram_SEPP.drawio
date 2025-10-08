@@ -46,6 +46,24 @@
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-23" value="System Admins" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="358" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-24" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="535.8199999999999" y="140" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-25" value="Competitors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-26" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="284.37" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-27" value="Sponsor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="252.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-28" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="275" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4tCJnRa7qCzZtoUwaEh-29" value="Developers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
