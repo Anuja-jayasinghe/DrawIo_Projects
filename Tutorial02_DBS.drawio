@@ -1,32 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="fghdiP34iX07XnkZCPm1">
-    <mxGraphModel dx="1264" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1223" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ptBnstIqWaZD1Uevk2Ez-5" value="Staff" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="321" y="41" width="159" height="159" as="geometry" />
-        </mxCell>
-        <mxCell id="ptBnstIqWaZD1Uevk2Ez-6" value="IT_Solution" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="ptBnstIqWaZD1Uevk2Ez-7" value="Project" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="323" y="280" width="157" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="ptBnstIqWaZD1Uevk2Ez-8" value="Skill" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="160" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="ptBnstIqWaZD1Uevk2Ez-9" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="361" y="121" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ptBnstIqWaZD1Uevk2Ez-10" value="Project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="361" y="281" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ptBnstIqWaZD1Uevk2Ez-11" value="IT_Solution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="121" y="281" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ptBnstIqWaZD1Uevk2Ez-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="ptBnstIqWaZD1Uevk2Ez-12" value="Skill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="281" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptBnstIqWaZD1Uevk2Ez-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ptBnstIqWaZD1Uevk2Ez-11" target="ptBnstIqWaZD1Uevk2Ez-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="300" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
