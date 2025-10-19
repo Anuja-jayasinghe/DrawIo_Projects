@@ -358,6 +358,18 @@
         <mxCell id="v90WLhtirhXJfasFhO05-160" value="&lt;span style=&quot;text-align: center;&quot;&gt;w2119963_Unit_Price_Snapshot&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="v90WLhtirhXJfasFhO05-155">
           <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="v90WLhtirhXJfasFhO05-161" value="w2119963_Small_Collection" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="730" y="240" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v90WLhtirhXJfasFhO05-162" value="&lt;span style=&quot;text-align: center;&quot;&gt;w2119963_C&lt;/span&gt;ollection_Id {PK}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="v90WLhtirhXJfasFhO05-161">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v90WLhtirhXJfasFhO05-167" value="w2119963_Large_Collection" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v90WLhtirhXJfasFhO05-168" value="&lt;span style=&quot;text-align: center;&quot;&gt;w2119963_C&lt;/span&gt;ollection_Id {PK}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="v90WLhtirhXJfasFhO05-167">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
