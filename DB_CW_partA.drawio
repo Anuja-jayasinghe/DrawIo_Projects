@@ -374,7 +374,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="fuck-around" id="0I9E9wruzMQvYAYu1Uf2">
-    <mxGraphModel dx="-6494" dy="26325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-5903" dy="26566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="_NUjWl9cTOvEB2zZMhWe-0" />
         <mxCell id="_NUjWl9cTOvEB2zZMhWe-1" parent="_NUjWl9cTOvEB2zZMhWe-0" />
@@ -1125,6 +1125,18 @@
         </mxCell>
         <mxCell id="_XCRWGXMLYsBweMBFI-A-58" value="0..*" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
           <mxGeometry x="9740" y="-24300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-59" value="has" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
+          <mxGeometry x="9868.13" y="-24396" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-60" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
+          <mxGeometry x="9848.134999999998" y="-24391.00333333333" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-61" value="1..*" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
+          <mxGeometry x="9750" y="-24380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-62" value="1..1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
+          <mxGeometry x="9960" y="-24390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
