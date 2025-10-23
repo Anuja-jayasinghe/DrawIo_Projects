@@ -374,7 +374,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="fuck-around" id="0I9E9wruzMQvYAYu1Uf2">
-    <mxGraphModel dx="-5650" dy="26669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-7014" dy="26113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="_NUjWl9cTOvEB2zZMhWe-0" />
         <mxCell id="_NUjWl9cTOvEB2zZMhWe-1" parent="_NUjWl9cTOvEB2zZMhWe-0" />
@@ -532,8 +532,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_XCRWGXMLYsBweMBFI-A-68" value="{Mandatory,Or}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="Qa68rpHvXVygHa8k1b0T-20">
-          <mxGeometry x="259.99999999999943" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-68" value="{Optional,Or}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="Qa68rpHvXVygHa8k1b0T-20">
+          <mxGeometry x="260" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jex0-mK_nIIh2gpVqh9P-25" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="Qa68rpHvXVygHa8k1b0T-20">
           <mxGeometry x="234.99999999999943" y="119.99999999999999" width="10" height="13.33" as="geometry" />
@@ -876,10 +876,10 @@
         <mxCell id="_XCRWGXMLYsBweMBFI-A-51" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
           <mxGeometry x="9970.005" y="-24825.00333333333" width="26.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_XCRWGXMLYsBweMBFI-A-52" value="0..1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-52" value="0..*" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
           <mxGeometry x="9850" y="-24825" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_XCRWGXMLYsBweMBFI-A-53" value="0..1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-53" value="0..*" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
           <mxGeometry x="10110" y="-24640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_XCRWGXMLYsBweMBFI-A-54" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="_NUjWl9cTOvEB2zZMhWe-1">
@@ -1040,7 +1040,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_XCRWGXMLYsBweMBFI-A-63" value="{Optional,Or}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="BQXhY2MllkGFeovwrJst-1">
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-63" value="{Optional,AND}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="BQXhY2MllkGFeovwrJst-1">
           <mxGeometry x="370" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_XCRWGXMLYsBweMBFI-A-65" value="{Optional,Or}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="BQXhY2MllkGFeovwrJst-1">
