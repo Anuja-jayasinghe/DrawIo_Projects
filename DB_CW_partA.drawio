@@ -970,7 +970,7 @@
             <Array as="points">
               <mxPoint x="96" y="226" />
               <mxPoint x="360" y="226" />
-              <mxPoint x="626" y="226" />
+              <mxPoint x="605" y="226" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -992,7 +992,7 @@
           <mxGeometry x="264.44444444444525" y="149.75" width="191.1111111111111" height="41.25000000000001" as="geometry" />
         </mxCell>
         <mxCell id="Qa68rpHvXVygHa8k1b0T-14" value="" style="group" parent="BQXhY2MllkGFeovwrJst-1" vertex="1" connectable="0">
-          <mxGeometry x="529.9988888888893" y="246" width="191.1111111111111" height="158.75" as="geometry" />
+          <mxGeometry x="508.99888888888927" y="246" width="191.1111111111111" height="158.75" as="geometry" />
         </mxCell>
         <mxCell id="_NUjWl9cTOvEB2zZMhWe-58" value="w2119963_Food" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;container=0;" parent="Qa68rpHvXVygHa8k1b0T-14" vertex="1">
           <mxGeometry width="191.1111111111111" height="153.75" as="geometry" />
