@@ -1156,9 +1156,6 @@
         <mxCell id="BQXhY2MllkGFeovwrJst-21" value="have" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="BQXhY2MllkGFeovwrJst-19" vertex="1">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BQXhY2MllkGFeovwrJst-22" value="1..1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="_NUjWl9cTOvEB2zZMhWe-1" vertex="1">
-          <mxGeometry x="9070" y="-24230" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2jgHjEz1Mp1KdTiw8mxZ-0" value="w2119963_BasketItem" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" parent="_NUjWl9cTOvEB2zZMhWe-1" vertex="1">
           <mxGeometry x="10410" y="-23960" width="160" height="150" as="geometry" />
         </mxCell>
