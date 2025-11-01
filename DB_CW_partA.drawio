@@ -1224,7 +1224,7 @@
         <mxCell id="zd-j9GrfvKV1ADLcG8oO-2" value="plans" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
           <mxGeometry x="10120" y="-24020" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zd-j9GrfvKV1ADLcG8oO-3" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
+        <mxCell id="zd-j9GrfvKV1ADLcG8oO-3" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);" vertex="1" parent="_NUjWl9cTOvEB2zZMhWe-1">
           <mxGeometry x="10170" y="-24020" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
