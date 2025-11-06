@@ -374,7 +374,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="fuck-around" id="0I9E9wruzMQvYAYu1Uf2">
-    <mxGraphModel dx="-6200" dy="25618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-5903" dy="25739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="_NUjWl9cTOvEB2zZMhWe-0" />
         <mxCell id="_NUjWl9cTOvEB2zZMhWe-1" parent="_NUjWl9cTOvEB2zZMhWe-0" />
@@ -1040,10 +1040,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_XCRWGXMLYsBweMBFI-A-63" value="{Optional,AND}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="BQXhY2MllkGFeovwrJst-1" vertex="1">
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-63" value="{Mandatory,AND}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="BQXhY2MllkGFeovwrJst-1" vertex="1">
           <mxGeometry x="370" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_XCRWGXMLYsBweMBFI-A-65" value="{Optional,Or}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="BQXhY2MllkGFeovwrJst-1" vertex="1">
+        <mxCell id="_XCRWGXMLYsBweMBFI-A-65" value="{Mandatory,Or}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="BQXhY2MllkGFeovwrJst-1" vertex="1">
           <mxGeometry x="370" y="379.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_XCRWGXMLYsBweMBFI-A-24" value="" style="group;rotation=90;" parent="BQXhY2MllkGFeovwrJst-1" vertex="1" connectable="0">
