@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="3pftOQPsZ4v80Mipi9X5">
-    <mxGraphModel dx="835" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="1610" dy="1327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,16 +47,16 @@
           <mxGeometry x="299" y="418" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-24" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="544.8199999999999" y="200" width="20" height="40" as="geometry" />
+          <mxGeometry x="484.81999999999994" y="190" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-25" value="Competitors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#66FF66);" parent="1" vertex="1">
-          <mxGeometry x="529" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="469" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-26" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="137" y="344.37" width="20" height="40" as="geometry" />
+          <mxGeometry x="168" y="288" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-27" value="Sponsor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#66FF66);" parent="1" vertex="1">
-          <mxGeometry x="119" y="312.37" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="256" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a4tCJnRa7qCzZtoUwaEh-28" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="669" y="335" width="20" height="40" as="geometry" />
