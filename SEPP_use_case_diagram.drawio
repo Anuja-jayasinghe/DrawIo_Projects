@@ -205,6 +205,15 @@
             <mxPoint x="740" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-54" value="Register Vehicle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="580" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="oKTyY0B-L-_ozKf-KnlG-5" target="oKTyY0B-L-_ozKf-KnlG-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="580" as="sourcePoint" />
+            <mxPoint x="500" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
