@@ -59,16 +59,16 @@
           <mxGeometry x="320" y="980" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-23" value="View Route Navigation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="820" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oKTyY0B-L-_ozKf-KnlG-24" value="Contact Passenger" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="920" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-24" value="Contact Passenger" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="790" width="90" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-25" value="Execute Ride" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="730" width="90" height="60" as="geometry" />
+          <mxGeometry x="620" y="850" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-26" value="Analyze Feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359.99999999999994" y="660" width="90" height="60" as="geometry" />
+          <mxGeometry x="359.99999999999994" y="550" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-27" value="Monitor Trips" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="480" width="90" height="60" as="geometry" />
@@ -251,10 +251,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-67" value="Start Ride" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="600" width="90" height="60" as="geometry" />
+          <mxGeometry x="494" y="720" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-68" value="End Ride" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="620" y="690" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-69" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="oKTyY0B-L-_ozKf-KnlG-24" target="oKTyY0B-L-_ozKf-KnlG-25">
           <mxGeometry width="160" relative="1" as="geometry">
