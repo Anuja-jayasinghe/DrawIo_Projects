@@ -46,8 +46,10 @@
         <mxCell id="XmgJmLT0dJDeB1m_IkgI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmgJmLT0dJDeB1m_IkgI-17" target="XmgJmLT0dJDeB1m_IkgI-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XmgJmLT0dJDeB1m_IkgI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmgJmLT0dJDeB1m_IkgI-17" target="XmgJmLT0dJDeB1m_IkgI-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XmgJmLT0dJDeB1m_IkgI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmgJmLT0dJDeB1m_IkgI-17" target="XmgJmLT0dJDeB1m_IkgI-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XmgJmLT0dJDeB1m_IkgI-17" value="Validate Payment" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="900" width="80" height="80" as="geometry" />
@@ -62,12 +64,6 @@
         </mxCell>
         <mxCell id="XmgJmLT0dJDeB1m_IkgI-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="70" y="1540" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XmgJmLT0dJDeB1m_IkgI-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmgJmLT0dJDeB1m_IkgI-24" target="XmgJmLT0dJDeB1m_IkgI-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XmgJmLT0dJDeB1m_IkgI-24" value="Payment Valid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XmgJmLT0dJDeB1m_IkgI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmgJmLT0dJDeB1m_IkgI-26" target="XmgJmLT0dJDeB1m_IkgI-28">
           <mxGeometry relative="1" as="geometry" />
