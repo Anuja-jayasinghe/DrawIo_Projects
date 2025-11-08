@@ -34,8 +34,8 @@
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="330" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oKTyY0B-L-_ozKf-KnlG-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="90" height="60" as="geometry" />
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-15" value="Accept/Decline Ride" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-16" value="Make Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="90" height="60" as="geometry" />
@@ -51,6 +51,21 @@
         </mxCell>
         <mxCell id="oKTyY0B-L-_ozKf-KnlG-20" value="Track Driver Location" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-21" value="View Feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-22" value="View Earnings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-23" value="View Route Navigation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="525" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-24" value="Contact Passenger" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKTyY0B-L-_ozKf-KnlG-25" value="Execute Ride" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
