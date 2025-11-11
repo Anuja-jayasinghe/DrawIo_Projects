@@ -16,17 +16,13 @@
         <mxCell id="1kESZP3DRP7hmra35kqt-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="165" y="230" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-5" target="1kESZP3DRP7hmra35kqt-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1kESZP3DRP7hmra35kqt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-5" target="1kESZP3DRP7hmra35kqt-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-5" value="Submit Math Problem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1kESZP3DRP7hmra35kqt-5" value="Enter Math Problem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-10" target="1kESZP3DRP7hmra35kqt-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-10" value="Enter Math Problem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-12" target="1kESZP3DRP7hmra35kqt-14">
           <mxGeometry relative="1" as="geometry">
@@ -56,8 +52,13 @@
         <mxCell id="1kESZP3DRP7hmra35kqt-16" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#0bf445, #ededed);" vertex="1" parent="1">
           <mxGeometry x="655" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-18" target="1kESZP3DRP7hmra35kqt-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1kESZP3DRP7hmra35kqt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-18" target="1kESZP3DRP7hmra35kqt-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="320" />
+              <mxPoint x="180" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-18" value="Display Error mesage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
@@ -101,13 +102,13 @@
         <mxCell id="1kESZP3DRP7hmra35kqt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-37" target="1kESZP3DRP7hmra35kqt-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-37" value="log attemp in Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1kESZP3DRP7hmra35kqt-37" value="log attempt in Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-39" target="1kESZP3DRP7hmra35kqt-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-39" value="Dispay solution and explanation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1kESZP3DRP7hmra35kqt-39" value="Display solution and explanation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
