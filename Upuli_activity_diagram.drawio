@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-18" value="Display Error mesage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1kESZP3DRP7hmra35kqt-18" value="Display Error Message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-20" value="[Problem invalid}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -84,6 +84,9 @@
         <mxCell id="1kESZP3DRP7hmra35kqt-25" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#0bf445, #ededed);" vertex="1" parent="1">
           <mxGeometry x="655" y="750" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-28" target="1kESZP3DRP7hmra35kqt-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-28" value="notify student to try again" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -93,7 +96,7 @@
         <mxCell id="1kESZP3DRP7hmra35kqt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-32" target="1kESZP3DRP7hmra35kqt-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-32" value="Send problem to AI Assistant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1kESZP3DRP7hmra35kqt-32" value="AI Generates Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-34" value="[AI Available]" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" vertex="1" parent="1">
