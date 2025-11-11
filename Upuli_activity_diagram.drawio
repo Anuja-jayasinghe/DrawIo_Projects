@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="ztYvgIC2zTQrHEwG3F_-">
-    <mxGraphModel>
+    <mxGraphModel dx="2280" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1kESZP3DRP7hmra35kqt-2" value="Student" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-3" value="System/AI Assistant" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="500" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-4" target="1kESZP3DRP7hmra35kqt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="165" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-5" target="1kESZP3DRP7hmra35kqt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-5" value="Submit Math Problem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-10" target="1kESZP3DRP7hmra35kqt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-10" value="Enter Math Problem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-12" target="1kESZP3DRP7hmra35kqt-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="670" />
+              <mxPoint x="360" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-12" value="Submit Problem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-14" target="1kESZP3DRP7hmra35kqt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-14" value="Validate Input format" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-16" target="1kESZP3DRP7hmra35kqt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-16" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#0bf445, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="655" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-18" value="Display Error mesage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-20" value="[Problem invalid}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-18" target="1kESZP3DRP7hmra35kqt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
