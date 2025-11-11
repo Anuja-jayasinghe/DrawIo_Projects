@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1kESZP3DRP7hmra35kqt-2" value="Student" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="1kESZP3DRP7hmra35kqt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="550" width="1120" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="1kESZP3DRP7hmra35kqt-3" value="System/AI Assistant" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="500" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="1kESZP3DRP7hmra35kqt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="1120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-4" target="1kESZP3DRP7hmra35kqt-5">
           <mxGeometry relative="1" as="geometry" />
@@ -48,17 +48,76 @@
         <mxCell id="1kESZP3DRP7hmra35kqt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-16" target="1kESZP3DRP7hmra35kqt-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-16" target="1kESZP3DRP7hmra35kqt-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-16" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#0bf445, #ededed);" vertex="1" parent="1">
           <mxGeometry x="655" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-18" value="Display Error mesage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-20" value="[Problem invalid}" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="400" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1kESZP3DRP7hmra35kqt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-18" target="1kESZP3DRP7hmra35kqt-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-23" value="[Problem Valid]" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="655" y="515" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-24" target="1kESZP3DRP7hmra35kqt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-24" value="Send problem to AI Assistant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-25" target="1kESZP3DRP7hmra35kqt-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-25" target="1kESZP3DRP7hmra35kqt-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-25" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#0bf445, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="655" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-28" value="notify student to try again" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-30" value="[AI unavailable]" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="750" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-32" target="1kESZP3DRP7hmra35kqt-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-32" value="Send problem to AI Assistant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-34" value="[AI Available]" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="655" y="880" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-37" target="1kESZP3DRP7hmra35kqt-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-37" value="log attemp in Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1kESZP3DRP7hmra35kqt-39" target="1kESZP3DRP7hmra35kqt-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-39" value="Dispay solution and explanation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1145" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-43" value="Student" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1kESZP3DRP7hmra35kqt-44" value="System /AI Assistant" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
