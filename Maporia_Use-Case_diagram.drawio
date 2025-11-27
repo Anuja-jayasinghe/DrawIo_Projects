@@ -1,11 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="26.2.3">
   <diagram name="Page-1" id="wdRfkYu16cmFGwyL042l">
-    <mxGraphModel dx="973" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="29fKFFC9IsnYd7_LCYLq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="460" height="700" as="geometry" />
+        <mxCell id="29fKFFC9IsnYd7_LCYLq-3" value="Traveller/&lt;div&gt;Tourist&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29fKFFC9IsnYd7_LCYLq-4" value="Social&amp;nbsp;&lt;div&gt;Media Platforms&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29fKFFC9IsnYd7_LCYLq-6" value="Payment Gateway" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29fKFFC9IsnYd7_LCYLq-7" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29fKFFC9IsnYd7_LCYLq-8" value="Map API" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29fKFFC9IsnYd7_LCYLq-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="30" width="460" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="29fKFFC9IsnYd7_LCYLq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="29fKFFC9IsnYd7_LCYLq-15">
+          <mxGeometry width="460" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="29fKFFC9IsnYd7_LCYLq-14" value="Maporia Project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="29fKFFC9IsnYd7_LCYLq-15">
+          <mxGeometry x="160" y="10" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
