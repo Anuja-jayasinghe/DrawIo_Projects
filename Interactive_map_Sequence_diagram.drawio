@@ -67,6 +67,9 @@
         <mxCell id="pm55oVhe75dYO94yvi9s-21" value="&lt;font face=&quot;Verdana&quot;&gt;Database&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="60" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-22" value="&lt;font face=&quot;Verdana&quot;&gt;Database&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="570" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
