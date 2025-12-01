@@ -40,7 +40,7 @@
             <mxPoint x="390" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pm55oVhe75dYO94yvi9s-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Opens App&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Verdana;" connectable="0" vertex="1" parent="pm55oVhe75dYO94yvi9s-8">
+        <mxCell id="pm55oVhe75dYO94yvi9s-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Opens App&amp;nbsp;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Verdana;" connectable="0" vertex="1" parent="pm55oVhe75dYO94yvi9s-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pm55oVhe75dYO94yvi9s-14" value="" style="endArrow=open;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=0;" edge="1" parent="1">
@@ -49,7 +49,7 @@
             <mxPoint x="633" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pm55oVhe75dYO94yvi9s-15" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;initializeMap()&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pm55oVhe75dYO94yvi9s-14">
+        <mxCell id="pm55oVhe75dYO94yvi9s-15" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;initializeMap ()&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pm55oVhe75dYO94yvi9s-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pm55oVhe75dYO94yvi9s-16" value="&lt;font face=&quot;Verdana&quot;&gt;MapScreen&amp;nbsp; (UI)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -69,6 +69,42 @@
         </mxCell>
         <mxCell id="pm55oVhe75dYO94yvi9s-22" value="&lt;font face=&quot;Verdana&quot;&gt;Database&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="570" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-24" value="" style="endArrow=open;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="250" as="sourcePoint" />
+            <mxPoint x="873" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-25" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;fetchProgress ()&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pm55oVhe75dYO94yvi9s-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-26" value="" style="endArrow=open;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="873" y="310" as="sourcePoint" />
+            <mxPoint x="650" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-27" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&amp;nbsp;return status&amp;nbsp;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pm55oVhe75dYO94yvi9s-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-29" value="" style="endArrow=open;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="167" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-30" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Sees Map&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(with fog )&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pm55oVhe75dYO94yvi9s-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-31" value="" style="endArrow=open;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633" y="360" as="sourcePoint" />
+            <mxPoint x="410" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm55oVhe75dYO94yvi9s-32" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;return Config&amp;nbsp;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pm55oVhe75dYO94yvi9s-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
