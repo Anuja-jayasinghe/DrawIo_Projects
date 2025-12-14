@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="wdRfkYu16cmFGwyL042l">
-    <mxGraphModel dx="1733" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="60" width="30" x="760" y="620" as="geometry" />
         </mxCell>
         <mxCell id="29fKFFC9IsnYd7_LCYLq-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Authorization&lt;div&gt;Service Provider&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="740" y="90" as="geometry" />
+          <mxGeometry height="60" width="30" x="760" y="120" as="geometry" />
         </mxCell>
         <mxCell id="29fKFFC9IsnYd7_LCYLq-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrator" vertex="1">
           <mxGeometry height="60" width="30" x="90" y="655" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry height="60" width="120" x="60" y="230" as="geometry" />
         </mxCell>
         <mxCell id="xKdjt0wkpgQMU0qrRGfo-17" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="Email Verification" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" x="310" y="30" as="geometry" />
         </mxCell>
         <mxCell id="xKdjt0wkpgQMU0qrRGfo-18" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="View Unlocked Map tiles" vertex="1">
           <mxGeometry height="60" width="120" x="260" y="190" as="geometry" />
@@ -124,7 +124,7 @@
             <mxPoint x="910" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKdjt0wkpgQMU0qrRGfo-30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-30" edge="1" parent="1" source="29fKFFC9IsnYd7_LCYLq-6" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="xKdjt0wkpgQMU0qrRGfo-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1030" y="315" as="sourcePoint" />
             <mxPoint x="1080" y="265" as="targetPoint" />
@@ -206,6 +206,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1050" y="335" as="sourcePoint" />
             <mxPoint x="1100" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-51" edge="1" parent="1" source="29fKFFC9IsnYd7_LCYLq-6" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="xKdjt0wkpgQMU0qrRGfo-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1040" y="325" as="sourcePoint" />
+            <mxPoint x="1090" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
