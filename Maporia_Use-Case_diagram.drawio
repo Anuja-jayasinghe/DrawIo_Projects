@@ -20,10 +20,10 @@
           <mxGeometry height="60" width="30" x="740" y="60" as="geometry" />
         </mxCell>
         <mxCell id="29fKFFC9IsnYd7_LCYLq-15" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="700" width="460" x="220" y="30" as="geometry" />
+          <mxGeometry height="900" width="460" x="220" y="30" as="geometry" />
         </mxCell>
         <mxCell id="29fKFFC9IsnYd7_LCYLq-2" parent="29fKFFC9IsnYd7_LCYLq-15" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="700" width="460" as="geometry" />
+          <mxGeometry height="900" width="460" as="geometry" />
         </mxCell>
         <mxCell id="29fKFFC9IsnYd7_LCYLq-14" parent="29fKFFC9IsnYd7_LCYLq-15" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" value="Maporia Project" vertex="1">
           <mxGeometry height="30" width="140" x="160" y="10" as="geometry" />
@@ -48,6 +48,33 @@
         </mxCell>
         <mxCell id="xKdjt0wkpgQMU0qrRGfo-20" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="View&amp;nbsp;&lt;div&gt;Recomendations&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="270" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-21" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="View&amp;nbsp;&lt;div&gt;Planned Trips&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-22" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="Manage Profile" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-23" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="View Photos" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-24" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="Buy Products" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-25" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="Manage Places" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-26" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="Manage Shop" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-27" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="Share Photos" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-28" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="Payment Error" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="xKdjt0wkpgQMU0qrRGfo-29" parent="29fKFFC9IsnYd7_LCYLq-15" style="ellipse;whiteSpace=wrap;html=1;" value="Creat Reports" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="830" as="geometry" />
         </mxCell>
         <mxCell id="xKdjt0wkpgQMU0qrRGfo-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
           <mxGeometry height="60" width="30" x="-50" y="310" as="geometry" />
