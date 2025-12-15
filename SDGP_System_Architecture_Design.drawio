@@ -31,6 +31,39 @@
         <mxCell id="-A2pfLP0_F-Y1up6R9QL-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Mobile Application" vertex="1">
           <mxGeometry height="60" width="160" x="530" y="55" as="geometry" />
         </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Data Handle" vertex="1">
+          <mxGeometry height="60" width="160" x="110" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Feature Integration" vertex="1">
+          <mxGeometry height="60" width="160" x="460" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Data Collection" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Map and Explore Tracking" vertex="1">
+          <mxGeometry height="60" width="200" x="300" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Trip Tracking" vertex="1">
+          <mxGeometry height="60" width="160" x="100" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Payment Process" vertex="1">
+          <mxGeometry height="60" width="160" x="490" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Notification Service" vertex="1">
+          <mxGeometry height="60" width="180" x="180" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Store Processing" vertex="1">
+          <mxGeometry height="60" width="160" x="530" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-23" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;h1&gt;User Data&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="130" width="130" x="159" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-24" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;h1&gt;Other Data&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="130" width="130" x="539" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="-A2pfLP0_F-Y1up6R9QL-25" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;h1&gt;Traveling Data&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="130" width="125" x="354" y="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
