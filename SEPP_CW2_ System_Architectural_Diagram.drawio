@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
           <mxGeometry height="110" width="530" x="149" y="55" as="geometry" />
         </mxCell>
         <mxCell id="bQtX7BCRCdCfTcQLD9Dg-2" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="bQtX7BCRCdCfTcQLD9Dg-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Driver" vertex="1">
           <mxGeometry height="30" width="60" x="384" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
           <mxGeometry height="140" width="531" x="149" y="210" as="geometry" />
         </mxCell>
         <mxCell id="bQtX7BCRCdCfTcQLD9Dg-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User Tier" vertex="1">
@@ -61,10 +61,10 @@
             <mxPoint x="610" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="" vertex="1">
           <mxGeometry height="100" width="710" x="59" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="" vertex="1">
           <mxGeometry height="150" width="531" x="149" y="400" as="geometry" />
         </mxCell>
         <mxCell id="bQtX7BCRCdCfTcQLD9Dg-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="API Gateway" vertex="1">
@@ -91,10 +91,10 @@
         <mxCell id="bQtX7BCRCdCfTcQLD9Dg-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Trip &amp;amp; Broadcast Engine" vertex="1">
           <mxGeometry height="40" width="120" x="639.83" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
           <mxGeometry height="120" width="399" x="370" y="843" as="geometry" />
         </mxCell>
-        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="" vertex="1">
           <mxGeometry height="120" width="291" x="59" y="843" as="geometry" />
         </mxCell>
         <mxCell id="bQtX7BCRCdCfTcQLD9Dg-36" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="MySQL Database" vertex="1">
