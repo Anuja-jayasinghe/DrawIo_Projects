@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="uLAD6Ql8-u59J_Q98210">
-    <mxGraphModel dx="1226" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bQtX7BCRCdCfTcQLD9Dg-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="170" width="710" x="58" y="380" as="geometry" />
+          <mxGeometry height="100" width="710" x="59" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="531" x="149" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="API Gateway" vertex="1">
+          <mxGeometry height="120" width="120" x="353" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API Gateway Layer" vertex="1">
+          <mxGeometry height="30" width="126" x="453.83" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="App Layer" vertex="1">
+          <mxGeometry height="30" width="126" x="444" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Rating &amp;amp;Feedback Service" vertex="1">
+          <mxGeometry height="40" width="120" x="69" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Real-time Tracing &amp;amp; Routing" vertex="1">
+          <mxGeometry height="40" width="120" x="500" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Payment &amp;amp; Billing Service" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="User &amp;amp; Vehical Management" vertex="1">
+          <mxGeometry height="40" width="120" x="220" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Trip &amp;amp; Broadcast Engine" vertex="1">
+          <mxGeometry height="40" width="120" x="639.83" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="350.17" x="418.83" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="bQtX7BCRCdCfTcQLD9Dg-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="350.17" x="59" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
