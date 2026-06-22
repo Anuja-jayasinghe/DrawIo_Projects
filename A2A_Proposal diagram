@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zXn_49kdjWocYOdZ1Jf--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=light-dark(#E1D5E7,#FFFFFF);strokeColor=#9673a6;" value="" vertex="1">
+        <mxCell id="zXn_49kdjWocYOdZ1Jf--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" value="" vertex="1">
           <mxGeometry height="510" width="1340" x="-180" y="30" as="geometry" />
         </mxCell>
         <mxCell id="dLfTLiCE2zFPRQT3mQnW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="Other A2A Agent / Client&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(any language)&lt;/div&gt;" vertex="1">
