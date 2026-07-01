@@ -42,8 +42,8 @@
         </mxCell>
         <mxCell id="fuX-3ZszXKkBneVyICno-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="310" y="200" as="sourcePoint" />
-            <mxPoint x="490" y="200" as="targetPoint" />
+            <mxPoint x="310" y="195" as="sourcePoint" />
+            <mxPoint x="490" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fuX-3ZszXKkBneVyICno-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -56,16 +56,25 @@
           <mxGeometry height="30" width="180" x="120" y="120" as="geometry" />
         </mxCell>
         <mxCell id="fuX-3ZszXKkBneVyICno-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sendMessage(message) [JSON_RPC /HTTPS]" vertex="1">
-          <mxGeometry height="30" width="180" x="300" y="170" as="geometry" />
+          <mxGeometry height="30" width="180" x="300" y="165" as="geometry" />
         </mxCell>
         <mxCell id="fuX-3ZszXKkBneVyICno-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="310" y="290" as="sourcePoint" />
-            <mxPoint x="670" y="290" as="targetPoint" />
+            <mxPoint x="308.5" y="246" as="sourcePoint" />
+            <mxPoint x="668.5" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fuX-3ZszXKkBneVyICno-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="on Task(task)" vertex="1">
-          <mxGeometry height="30" width="180" x="400" y="260" as="geometry" />
+          <mxGeometry height="30" width="180" x="398.5" y="216" as="geometry" />
+        </mxCell>
+        <mxCell id="fuX-3ZszXKkBneVyICno-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="310" as="sourcePoint" />
+            <mxPoint x="490" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuX-3ZszXKkBneVyICno-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TaskStore.update(Task{state: Working})" vertex="1">
+          <mxGeometry height="30" width="240" x="480" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
