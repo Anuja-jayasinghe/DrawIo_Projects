@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KyBT1ujf4ODolMfsrgNy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Caller/ A2A Client" vertex="1">
+        <mxCell id="KyBT1ujf4ODolMfsrgNy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="Caller/ A2A Client" vertex="1">
           <mxGeometry height="50" width="150" x="40" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="fuX-3ZszXKkBneVyICno-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Task Handler&lt;div&gt;(developer code)&lt;/div&gt;" vertex="1">
+        <mxCell id="fuX-3ZszXKkBneVyICno-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="Task Handler&lt;div&gt;(developer code)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="600" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="fuX-3ZszXKkBneVyICno-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Task Store" vertex="1">
+        <mxCell id="fuX-3ZszXKkBneVyICno-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="Task Store" vertex="1">
           <mxGeometry height="50" width="150" x="413.5" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="fuX-3ZszXKkBneVyICno-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="a2a:Listener" vertex="1">
+        <mxCell id="fuX-3ZszXKkBneVyICno-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="a2a:Listener" vertex="1">
           <mxGeometry height="50" width="150" x="230" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fuX-3ZszXKkBneVyICno-5" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
@@ -96,12 +96,12 @@
         </mxCell>
         <mxCell id="fuX-3ZszXKkBneVyICno-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="290" y="440" as="sourcePoint" />
-            <mxPoint x="110" y="440" as="targetPoint" />
+            <mxPoint x="296" y="440" as="sourcePoint" />
+            <mxPoint x="116" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fuX-3ZszXKkBneVyICno-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TaskArtifactUpdateEvent&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="240" x="80" y="400" as="geometry" />
+        <mxCell id="fuX-3ZszXKkBneVyICno-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TaskArtifactUpdateEvent {taskid, artifact, index:0, lasChunk:true} SSE" vertex="1">
+          <mxGeometry height="30" width="240" x="93" y="400" as="geometry" />
         </mxCell>
         <mxCell id="fuX-3ZszXKkBneVyICno-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -109,8 +109,8 @@
             <mxPoint x="120" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fuX-3ZszXKkBneVyICno-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TaskStatusUpdateEvent{taskid, state: WORKING}}" vertex="1">
-          <mxGeometry height="30" width="240" x="90" y="460" as="geometry" />
+        <mxCell id="fuX-3ZszXKkBneVyICno-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TaskStatusUpdateEvent {taskid, state: COMPLETED } SSE" vertex="1">
+          <mxGeometry height="30" width="270" x="75" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
