@@ -55,6 +55,9 @@
         <mxCell id="fuX-3ZszXKkBneVyICno-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sendMessage(message) [JSON_RPC /HTTPS]" vertex="1">
           <mxGeometry height="30" width="180" x="120" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="fuX-3ZszXKkBneVyICno-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sendMessage(message) [JSON_RPC /HTTPS]" vertex="1">
+          <mxGeometry height="30" width="180" x="300" y="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
